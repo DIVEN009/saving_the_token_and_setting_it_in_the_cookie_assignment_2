@@ -1,0 +1,20 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+}
+
+#home-page, #other-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
